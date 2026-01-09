@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Sensitive - DO NOT COMMIT
+config.py
+.env
+*.key
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Data
+*.db
+*.sqlite
+

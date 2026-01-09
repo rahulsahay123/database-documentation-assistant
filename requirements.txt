@@ -1,0 +1,9 @@
+# Core packages for the Database Documentation Assistant
+streamlit==1.40.0          # Web framework for creating the UI
+pyodbc==5.2.0              # SQL Server database connection
+anthropic==0.42.0          # Claude AI API client
+pandas==2.2.3              # Data manipulation and display
+streamlit-mermaid==0.1.0   # For ER diagram visualization (will add later)
+
+# Optional but recommended
+python-dotenv==1.0.1       # For managing environment variables securely
