@@ -1,5 +1,16 @@
 # Database Documentation Assistant
 
+# Database Documentation Assistant
+
+   ![Python](https://img.shields.io/badge/python-3.13+-blue.svg)
+   ![Streamlit](https://img.shields.io/badge/streamlit-1.40.0-red.svg)
+   ![Claude](https://img.shields.io/badge/AI-Claude%20Sonnet%204-orange.svg)
+   [![Wiki](https://img.shields.io/badge/docs-wiki-green.svg)](https://github.com/rahulsahay123/database-documentation-assistant/wiki)
+   [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+   ![Status](https://img.shields.io/badge/status-active-success.svg)
+
+   AI-powered database documentation tool using Streamlit and Claude AI. Built in 3 phases to demonstrate progressive learning from basic database connections to agentic AI.
+
 AI-powered database documentation tool using Streamlit and Claude AI. Built in 3 phases to demonstrate progressive learning from basic database connections to agentic AI capabilities.
 
 ## Features
