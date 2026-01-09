@@ -1,7 +1,5 @@
 # Database Documentation Assistant
 
-# Database Documentation Assistant
-
    ![Python](https://img.shields.io/badge/python-3.13+-blue.svg)
    ![Streamlit](https://img.shields.io/badge/streamlit-1.40.0-red.svg)
    ![Claude](https://img.shields.io/badge/AI-Claude%20Sonnet%204-orange.svg)
